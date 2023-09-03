@@ -1,0 +1,13 @@
+name: SkiesUtils
+version: '${project.version}'
+main: com.taggernation.skiesutils.SkiesUtils
+api-version: 1.18
+authors: [ Edward ]
+depend:
+  - ProtocolLib
+  - PlaceholderAPI
+softdepend:
+  - Jobs
+commands:
+  camera:
+    description: "Set the camera to a specific location"

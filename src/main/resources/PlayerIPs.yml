@@ -1,0 +1,4 @@
+player-limit: 1
+bypass-permission: "skiesmc.joinbypass"
+kick-message: "You have reached the maximum amount of players allowed on this IP address."
+PlayerIPs:

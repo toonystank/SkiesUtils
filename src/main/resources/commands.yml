@@ -1,0 +1,12 @@
+data:
+  'logo':
+    delay: 0
+    # Run before resource pack applied
+    RunBefore: false
+    # Command will run for players with permission. NONE means all players.
+    permission: NONE
+    # Commands to run. TAGS
+    # - "[console] command"
+    # - "[player] command"
+    commands:
+      - "iaplaytotemanimation animatedtitles:logo {player}"
